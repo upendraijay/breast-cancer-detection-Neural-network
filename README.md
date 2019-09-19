@@ -18,3 +18,6 @@ Ten real-valued features are computed for each cell nucleus:
 The label associated with each cell contains the letter "M" if it is the Malignant tumor(cancer) and "B" if it is Benign tumor(Normal).
 
 Data can be found on UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+
+
+ROC,Accuracy, Recall,....
